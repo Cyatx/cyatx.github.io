@@ -1,0 +1,12 @@
+Package: com.cyatx.realcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cytax <damian.ignacio@icloud.com>
+Depends:  mobilesubstrate 
+Filename: debs/com.cytax.realcc_1.0_iphoneos-arm.deb
+MD5sum: E0D2863BC1C178963E73B31D69AF73F2
+Size: 2672
+Section: Tweaks
+Description: Real WiFi Shutdown and your iOS device Bluetooth
+Author: Cyatx <damian.ignacio@icloud.com>
+Name: RealCC 12
