@@ -1,5 +1,5 @@
 Package: com.cyatx.realcc
-Version: 2.0.0-1
+Version: 1.0
 Section: Tweaks
 Maintainer: Cyatx <damian.ignacio@icloud.com>
 Depends: firmware (>7.0), mobilesubstrate
