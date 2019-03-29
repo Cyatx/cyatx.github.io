@@ -1,8 +1,8 @@
-Origin: Cyatx Repo
+Origin: Cyatx's Cydia Repo
 Label: Cyatx Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Tweaks, Themes and Apps
+Description: Tweaks, Themes and Apps modifications
