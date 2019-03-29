@@ -6,7 +6,7 @@ Maintainer: Cyatx
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.julioverne.goodwifi_0.0~beta4_iphoneos-arm.deb
 Size: 54976
-MD5sum: 3866bac5a02349a472a818f7180e28ca
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
 Homepage: https://twitter.com/cyatx00
 Description: Better WiFi Preferences
 Name: GoodWiFi for iOS 12
