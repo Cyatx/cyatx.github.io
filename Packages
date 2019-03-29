@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Cytax <damian.ignacio@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.cytax.RealShutdown_1.0.deb
-MD5sum: A71C88A130D5CCAC03CC58BD4B554FB2
+MD5sum: 089f4dedb54c52f1e6f1ef2d7e25100d
 SHA1: 0D9FD9F5865B036315D54DF4BC8F87AF2F45928E
 SHA256: 6FCEE27DEDCA0C0D0A6B5701D57F3978F49C85BF73826DBBEE01EF5021BF8C04
 Size: 76
@@ -12,3 +12,5 @@ Section: Modifications
 Description: Real WiFi Shutdown and Bluetooth
 Author: Cyatx <damian.ignacio@icloud.com>
 Name: RealShutdown 12
+Depiction: https://cyatx.github.io/repo/depictions/?p=com.cyatx.realshutdown
+dev: Cyatx
