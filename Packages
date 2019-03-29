@@ -21,10 +21,10 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debfiles/com.cyatx.realshutdown_1.0.deb
 MD5sum: c2c243f78fc8ad4c0aca943a2738a374
 Size: 4250
-Section: Modifications
+Section: Tweaks
 Description: Real WiFi Shutdown and Bluetooth
 Author: Cyatx <damian.ignacio@icloud.com>
-Name: RealShutdown 12
+Name: RealShutdown for iOS 12
 
-dev: Cyatx
+
 
