@@ -13,4 +13,18 @@ Name: MImport for ios 12
 Author: Cyatx <damian.ignacio@icloud.com>
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
+Package: com.cyatx.RealShutdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cytax <damian.ignacio@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.cyatx.realshutdown_1.0.deb
+MD5sum: c2c243f78fc8ad4c0aca943a2738a374
+Size: 4250
+Section: Modifications
+Description: Real WiFi Shutdown and Bluetooth
+Author: Cyatx <damian.ignacio@icloud.com>
+Name: RealShutdown 12
+
+dev: Cyatx
 
